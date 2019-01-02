@@ -1,0 +1,46 @@
+# Title of your blog; shows in the header
+name: "Trezy Codes"
+
+# Description of your content (will only be used on Google Search)
+description: "Everything you need to know about Trezy's livestream."
+
+# Your name. Will show in your footer + sidebar
+author: "Trezy"
+
+url: "https://trezy.stream"
+baseurl: ""
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "I develop things (mostly open source). You can check out my work on [NES.css](https://nostalgic-css.github.io/NES.css), [Eidetica](https://github.com/trezy/eidetica), or any of the [Fuel Rats web projects](https://github.com/FuelRats)."
+
+# Social Accounts (mine, as placeholders)
+
+github: trezy
+instagram: trezycom
+twitch: TrezyCodes
+twitter: trezytv
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: trezy.stream
+ga_tracking_id: UA-
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+highlighter: none
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
