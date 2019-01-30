@@ -2,6 +2,7 @@
 layout: post
 title:  "On Advanced Box Shadows"
 date:   2013-12-03 12:00:00
+categories: [css]
 ---
 
 `box-shadow` is arguably one of the coolest things to come out of CSS3. However I've been creating shadows in Adobe Fireworks and Photoshop for years so I feel like I'm too constrained by CSS3's `box-shadow` implementation. In an effort to expand my boxy horizons, I set out on a quest to create some cooler shadows.<!--more-->

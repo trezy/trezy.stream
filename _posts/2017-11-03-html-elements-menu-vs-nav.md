@@ -2,6 +2,8 @@
 layout: post
 title:  "HTML Elements: Menu vs Nav"
 date:   2015-04-16 12:00:00
+categories: [html]
+tags: [html, menu, nav]
 ---
 
 ***…or Why the Hamburger Icon is Awesome.***

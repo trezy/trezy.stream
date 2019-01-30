@@ -2,6 +2,8 @@
 layout: post
 title:  "On Handlebars and Template Tags"
 date:   2014-06-17 12:00:00
+categories: [javascript]
+tags: [handlebars, javascript]
 ---
 
 [Handlebars](http://handlebarsjs.com) is *awesome*. I can separate my template logic from my application logic? Yes, please. When I try to use Handlebars in my local editor, though, it vomits all over those ugly `<script>` tags. Fortunately there's an awesome, future-friendly, spec-compliant solution - the `<template>` tag.

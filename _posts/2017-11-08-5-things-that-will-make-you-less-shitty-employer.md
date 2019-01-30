@@ -2,6 +2,7 @@
 layout: post
 title:  "5 Things That Will Make You a Less Shitty Employer"
 date:   2017-11-08 12:00:00
+categories: [career]
 ---
 
 ***Spoiler: This shit should really be common sense.***

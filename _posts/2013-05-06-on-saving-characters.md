@@ -2,6 +2,7 @@
 layout: post
 title:  "On Saving Characters"
 date:   2013-05-06 12:00:00
+categories: [css]
 ---
 
 Recently I discovered something mind-blowing that I feel like I should have known for years.<!--more--> When I write my sans-serif font-family stack in my CSS file I normally use this:

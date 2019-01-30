@@ -2,6 +2,8 @@
 layout: post
 title:  "Stop Using ngOptions"
 date:   2015-09-02 12:00:00
+categories: [javascript]
+tags: [angular, javascript]
 ---
 
 *This article was originally published on 02 September, 2015 at Codepen.io.*

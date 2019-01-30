@@ -2,6 +2,7 @@
 layout: post
 title:  "On Great Wolf"
 date:   2014-02-06 12:00:00
+categories: [career]
 ---
 
 Yesterday was my last day working at [Great Wolf](http://greatwolf.com/) so I'd like to document the things I learned before I start a new job and lose all of that new hotness.

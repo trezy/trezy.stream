@@ -2,6 +2,7 @@
 layout: post
 title:  "On Dropdown Menu Transitions"
 date:   2014-03-01 12:00:00
+categories: [css]
 ---
 
 The CSS transition property allows for a lot of really cool effects in your design but it has definitely caused me to bang my head against the desk a few times. Here are some details about the transition property that aren't very well documented.

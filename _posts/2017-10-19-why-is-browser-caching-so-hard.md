@@ -2,6 +2,8 @@
 layout: post
 title:  "Why Is Browser Caching So Hard?"
 date:   2017-10-19 12:00:00
+categories: [devops]
+tags: [devops, javascript, koajs]
 ---
 
 Browser caching is one of the best ways to take care of your users while also speeding up your website… so why is it so hard?

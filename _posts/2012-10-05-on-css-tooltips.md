@@ -2,6 +2,7 @@
 layout: post
 title:  "On CSS Tooltips"
 date:   2012-10-05 12:00:00
+categories: [css]
 ---
 
 Pure <abbr title="Cascading Style Sheets">CSS</abbr> tooltips have been a thing for a while now but all of the solutions I've found have had limitations. After reading through Louis Lazaris's article [Pure <abbr title="Cascading Style Sheets">CSS</abbr> Tool Tips Revisited](http://www.impressivewebs.com/pure-css-tool-tips/) over at [ImpressiveWebs](http://impressivewebs.com), I decided to make a few modifications of my own to his design.
